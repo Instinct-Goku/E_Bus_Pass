@@ -1,2 +1,3 @@
-# Cloud-Based-Buss-Pass-System
-Mini Project
+# E-Bus Pass
+
+Generete free bus pass selecting your destination.
