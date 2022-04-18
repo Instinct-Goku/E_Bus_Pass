@@ -43,10 +43,10 @@ CREATE TABLE IF NOT EXISTS `destination` (
 INSERT INTO `destination` (`id`, `name`, `price`) VALUES
 (1, 'Delhi', 300),
 (2, 'Agra', 150),
-(3, 'Mathura', 25),
-(4, 'Vrindavan', 15),
-(5, 'Barsana', 50),
-(6, 'Chaumuhan', 7);
+(3, 'Mathura', 160),
+(4, 'Vrindavan', 150),
+(5, 'Lonavala', 50),
+(6, 'Goa', 70);
 
 -- --------------------------------------------------------
 
